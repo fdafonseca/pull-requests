@@ -1,0 +1,2 @@
+This file also added to feature1
+One more change in feature1
